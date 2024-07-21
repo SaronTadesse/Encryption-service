@@ -1,0 +1,6 @@
+rootProject.name = 'saron-encryption-service'
+include 'encryption-service-controller'
+include 'encryption-service-persistance'
+include 'encryption-service-model'
+include 'encryption-service-flow'
+
